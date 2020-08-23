@@ -46,9 +46,9 @@ output:
 
 ## <font size="30"> Version Control & Reproducible Science </font> {data-background="#fdf6e3"}
 
->- <p style="font-size:65%> Version Control Systems (VCS) tracks content, providing an entire history of changes</p>
->- <p style="font-size:65%> VCS like [Git](https://git-scm.com/) allow code and text files to be shared in full</p>
->- <p style="font-size:65%> Develop and debug portions of a project, integrate the changes into working code later</p>
+>- <p style="font-size:65%;"> Version Control Systems (VCS) tracks content, providing an entire history of changes</p>
+>- <p style="font-size:65%;"> VCS like [Git](https://git-scm.com/) allow code and text files to be shared in full</p>
+>- <p style="font-size:65%;"> Develop and debug portions of a project, integrate the changes into working code later</p>
 
 # Intro to Git {data-background="#C0F19B73"}
 
