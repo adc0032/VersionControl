@@ -2,6 +2,7 @@
 title: "Version Control"
 author: "Amanda D. Clark"
 date created: "8/11/2020"
+date modified: "9/2/2020"
 output:
   revealjs::revealjs_presentation:
     highlights: tango
@@ -21,6 +22,16 @@ output:
 >- Replicability <i>"...obtaining consistent results across studies aimed at answering the same scientific question, each of which has obtained its own data."</i>
 >- More about the ["Reproducibility Crisis in Science"](https://www.nature.com/articles/d41586-019-00067-3)
 
+## {data-background="#fdf6e3"}
+
+<div style="text-align: center; float: center;">
+
+<img src="./images/Peng.png" width="365">
+
+<img src="./images/Peng_fig1.png" width="600">
+
+</div>
+
 ## Version Control {data-background="#fdf6e3"}
 
 <div style="text-align: left; float: left; padding: 150px 0;font-size: 50%">
@@ -33,7 +44,7 @@ output:
 </div>
 
 <div style="text-align: right; float: right;">
-<img src="./images/just_underscoreit.jpg" width="365">
+<img src="./images/just_underscoreit.jpg" width="345">
 
 </div>
 
@@ -289,7 +300,7 @@ Switched to branch 'develop'
 
 <p style="font-size:55%;"> Let's sprinkle in little HTML code on our song...</p>
 
-- <p style="font-size:65%;color:#4B614B;">Populate Dory's song into this [html template]() and save as "Dory.html"</p>
+- <p style="font-size:65%;color:#4B614B;">Populate Dory's song into the html template on ASC or github and save as "Dory.html"</p>
 <div style="text-align: center; float: center"><img src="./images/htmlexample.png" width="1500"></div>
 
 >- <p style="font-size:65%;color:#4B614B;">What has changed about your directory content (Check with `ls` and `git status`)?</p>
@@ -415,6 +426,8 @@ $ git push origin master
 [Git Documentation](https://git-scm.com/docs)
 
 [Learning Git](https://www.atlassian.com/git)
+
+<p style="font-size:80%;">[<i>Git for Scientist</i> in <i>Bioinformatics Data Skills</i> by Vince Buffalo](http://2.droppdf.com/files/5aTvl/bioinformatics-data-skills.pdf) (Chapter 5)</p> 
 
 # Acknowledgements {data-background="#C0F19B73"}
 ## Inspiration {data-background="#fdf6e3"}
